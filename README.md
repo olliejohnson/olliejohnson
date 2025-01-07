@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/olliejohnson.png" width="100" />
   <div id="badges">
-    <a href="https://discord.com/olliejohnson">
+    <a href="https://discord.com/users/763416652313526313">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
